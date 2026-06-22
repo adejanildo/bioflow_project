@@ -269,13 +269,13 @@ bioflow_project/
 ├── dashboard/             # Painel administrativo
 ├── api/                   # API REST
 ├── templates/             # Templates HTML
-├── static/                # Arquivos CSS, JS e imagens estáticas
+├── static/                # Arquivos CSS
+├── manage.py
+├── requirements.txt
 ├── Documentação/
 │   ├── DOCUMENTACAO_TELAS.pdf
-│   ├── relatorio_final.pdf
+│   ├── RELATORIO_FINAL.pdf
 │   ├── api.md
-│   ├── backlog.pdf
-│   ├── telas.pdf
 │   └── imagens/
 │       ├── login.png
 │       ├── dashboard.png
@@ -289,9 +289,7 @@ bioflow_project/
 │       ├── movimentacao_estoque.png
 │       ├── api_rest.png
 │       └── usuarios.png
-├── manage.py
 ├── .gitignore
-├── requirements.txt
 └── README.md
 ```
 
