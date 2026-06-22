@@ -363,8 +363,6 @@ feat(reagentes): implementação do gerenciamento de reagentes
 docs: adiciona documentação das telas do sistema
 docs: README com instruções de instalação, configuração e execução do sistema
 ```
-```
-
 ## Licença
 
 Projeto acadêmico desenvolvido para a disciplina **Laboratório de Desenvolvimento de Software**.
